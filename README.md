@@ -1,7 +1,5 @@
 ### Hey there 👋
 I am [Jai Pawar](), a passionate Machine Learning Enthusiast and Front End Web Developer.
-Hi, I'm [Windard](https://windard.com) 👋
-
 
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-Machine%20Learning-brightgreen)
