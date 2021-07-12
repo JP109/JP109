@@ -4,7 +4,7 @@ I am [Jai Pawar](), a passionate Machine Learning Enthusiast and Front End Web D
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-Machine%20Learning-brightgreen)
 ![living](https://img.shields.io/badge/living-Mumbai-3c9)
-![visitors](https://visitor-badge.herokuapp.com/badge?page_id=JP109.github.profile)
+<!-- ![visitors](https://visitor-badge.herokuapp.com/badge?page_id=JP109.github.profile) -->
 
 <br />
 
