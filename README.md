@@ -5,6 +5,7 @@
 # Hi, I'm Jai 👋
 <!-- Link to my website on 'Jai'? -->
 [![GitHub Badge](https://img.shields.io/badge/-JP109-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/JP109)](https://github.com/JP109/ "Follow on GitHub")
+[![Linkedin Badge](https://img.shields.io/badge/-JaiPawar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jai-pawar-522592199/)](https://www.linkedin.com/in/jai-pawar-522592199/ "Connect on LinkedIn")
 
 ## About me
 <ul>
