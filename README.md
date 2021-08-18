@@ -1,18 +1,25 @@
-### Hey there 👋
-I am [Jai Pawar](), a passionate Machine Learning Enthusiast and Front End Web Developer.
-<!-- Link to my website above? -->
+<!-- Resources -->
+<!-- https://emojipedia.org/ -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
 
-![age](https://img.shields.io/badge/age-20-blue)
-![focus](https://img.shields.io/badge/focus-Machine%20Learning-brightgreen)
-![living](https://img.shields.io/badge/living-Mumbai-3c9)
+# Hi, I'm Jai 👋
+<!-- Link to my website on 'Jai'? -->
+[![GitHub Badge](https://img.shields.io/badge/-JP109-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/JP109)](https://github.com/JP109/ "Follow on GitHub")
 
-<br />
+## About me
+<ul>
+  <li> Front End Web Developer and Machine Learning enthusiast 👨‍💻
+  <li> IT Undergrad at Mumbai University 👨‍🎓
+</ul>
+  
+## Hobbies
+<ul>
+  <li> Binge-watching anime 👀
+  <li> Reading fiction & manga 📖
+  <li> Learning and implementing new tech 🖥️
+</ul>
 
-![Jai's github stats](https://github-readme-stats.vercel.app/api?username=JP109&show_icons=true&count_private=true&include_all_commits=true)
-
-<br />
-
-### 🛠 &nbsp;Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -36,7 +43,7 @@ I am [Jai Pawar](), a passionate Machine Learning Enthusiast and Front End Web D
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-----
+![Jai's github stats](https://github-readme-stats.vercel.app/api?username=JP109&show_icons=true&count_private=true&include_all_commits=true)
 
 <!-- Credits: [Jai](https://github.com/JP109) -->
 <!-- ![R](https://img.shields.io/badge/R-00599C?style=flat-square&logo=R&logoColor=white) -->
