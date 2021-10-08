@@ -29,8 +29,9 @@
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
@@ -52,3 +53,6 @@
 <!-- ![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) -->
 <!-- ![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white) -->
 <!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
+<!-- ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy) -->
+<!-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?flat-square&logo=pandas&logoColor=white) -->
+
