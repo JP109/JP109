@@ -10,13 +10,13 @@
 
 ## About me
 <ul>
-  <li> Front End Web Developer and Machine Learning enthusiast 👨‍💻
-  <li> IT Undergrad at Mumbai University 👨‍🎓
+  <li> Full Stack Web Developer, specializing in Front-End and UI interfaces.
+  <li> Machine Learning enthusiast. 👨‍💻 </li>
 </ul>
   
 ## Hobbies
 <ul>
-  <li> Binge-watching anime 👀
+  <li> Digital art
   <li> Reading fiction & manga 📖
   <li> Learning and implementing new tech 🖥️
 </ul>
@@ -47,7 +47,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-![Jai's github stats](https://github-readme-stats.vercel.app/api?username=JP109&show_icons=true&count_private=true&include_all_commits=true)
+<!-- ![Jai's github stats](https://github-readme-stats.vercel.app/api?username=JP109&show_icons=true&count_private=true&include_all_commits=true) -->
 
 <!-- Credits: [Jai](https://github.com/JP109) -->
 <!-- ![R](https://img.shields.io/badge/R-00599C?style=flat-square&logo=R&logoColor=white) -->
